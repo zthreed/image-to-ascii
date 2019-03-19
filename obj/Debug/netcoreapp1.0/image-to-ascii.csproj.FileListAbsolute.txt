@@ -1,0 +1,12 @@
+Z:\zdir\Projects\image-to-ascii\bin\Debug\netcoreapp1.0\image-to-ascii.deps.json
+Z:\zdir\Projects\image-to-ascii\bin\Debug\netcoreapp1.0\image-to-ascii.runtimeconfig.json
+Z:\zdir\Projects\image-to-ascii\bin\Debug\netcoreapp1.0\image-to-ascii.runtimeconfig.dev.json
+Z:\zdir\Projects\image-to-ascii\obj\Debug\netcoreapp1.0\image-to-ascii.csprojResolveAssemblyReference.cache
+Z:\zdir\Projects\image-to-ascii\obj\Debug\netcoreapp1.0\image-to-ascii.AssemblyInfo.cs
+Z:\zdir\Projects\image-to-ascii\bin\Debug\netcoreapp1.0\image-to-ascii.dll
+Z:\zdir\Projects\image-to-ascii\bin\Debug\netcoreapp1.0\image-to-ascii.pdb
+Z:\zdir\Projects\image-to-ascii\obj\Debug\netcoreapp1.0\image-to-ascii.dll
+Z:\zdir\Projects\image-to-ascii\obj\Debug\netcoreapp1.0\image-to-ascii.pdb
+z:\zdir\Projects\image-to-ascii\bin\Debug\netcoreapp1.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+z:\zdir\Projects\image-to-ascii\bin\Debug\netcoreapp1.0\xunit.runner.reporters.netcoreapp10.dll
+z:\zdir\Projects\image-to-ascii\bin\Debug\netcoreapp1.0\xunit.runner.utility.netcoreapp10.dll
